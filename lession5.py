@@ -74,5 +74,6 @@ def rps():
     return play_rps
 
 
-play = rps()
-play()
+r_p_s = rps()
+if __name__ == "__main__":
+    r_p_s()
